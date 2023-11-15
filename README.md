@@ -1,16 +1,18 @@
-# list_produk_yaya
+# Informasi Pribadi
 
-A new Flutter project.
+Nama: Mutiara Sandi
+NIM: 3337220100
+Kelas: B
+Mata Kuliah: Pemrograman Mobile
 
-## Getting Started
+## Tampilan
 
-This project is a starting point for a Flutter application.
+- Bagian Home
+![image](https://github.com/mutiara1011/list_produk_mobile/assets/148642394/28029f61-cab7-453d-a571-99dfb1f2aa64)
+- Bagian Login
+![image](https://github.com/mutiara1011/list_produk_mobile/assets/148642394/cb86bfaf-98cb-48a8-bc9c-ad6808a9b7d6)
+- Bagian Register
+![image](https://github.com/mutiara1011/list_produk_mobile/assets/148642394/20c8526e-8268-4130-90f2-b84d641a3e66)
+- Bagian Menu Produk
+![image](https://github.com/mutiara1011/list_produk_mobile/assets/148642394/cb8a6254-5cfa-438a-936f-19edc7a2e6f4)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
